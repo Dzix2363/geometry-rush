@@ -1,4 +1,0 @@
-# Wpisz poniżej SAMĄ nazwę pliku z folderu "addons" (bez addons\ na początku!)
-# Każdy plik w nowej linijce. Linijki z # są ignorowane.
-
-"dodatek.bat"
